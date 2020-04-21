@@ -56,6 +56,8 @@ python setup_permissions.py
 
 Follow the instructions.
 
+This token is only good for 60 days.
+
 ### 5. Set up Rocket League key bindings
 Go to `config/rocketleague_config.py` and set up key bindings.
 
